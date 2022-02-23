@@ -18,8 +18,23 @@
 <img align="left"  alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
+<br />
+<br />
 
-<br />
-<br />
 
 [![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tae100k)](https://github.com/tae100k/github-readme-stats)
+
+<br />
+<br />
+
+<a href="https://www.instagram.com/eeh_eat_/">
+    <img 
+        src="https://img.shields.io/badge/<instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.notion.so/GET-WITH-THE-PROGRAM-be2073b7061f4e60adc40c17bad5c79a">
+    <img 
+        src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>	
+<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"></a>
