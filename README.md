@@ -1,10 +1,10 @@
 <img src ="https://user-images.githubusercontent.com/78027252/155314196-fdf1b3b9-7ed4-4c15-aba1-be7e4fb0b278.png"  width="100%">
 
-# Hi there, I'm a frontend Developer, Taehee 👋
+# Hi there, I'm a front-end developer, Taehee 👋
 
 - 🌱 I can speak 3 languages (KOR, ENG, VIET) 
-- 👯 I was majored in 'Advertisement·PR·Branding' and 'Vietnamese'.
-- ⚡ Fun fact: I do liftings! (Don't ask what my max is though🤣)
+- 👯 I majored in 'Advertisement·PR·Branding' and 'Vietnamese'.
+- ⚡ Fun fact: I lift! (Don't ask what my max is though🤣)
 
 
 ### Languages and tools:
