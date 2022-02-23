@@ -32,7 +32,7 @@
         src="https://img.shields.io/badge/<instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.notion.so/GET-WITH-THE-PROGRAM-be2073b7061f4e60adc40c17bad5c79a">
+<a href="https://fallacious-smash-138.notion.site/GET-WITH-THE-PROGRAM-be2073b7061f4e60adc40c17bad5c79a">
     <img 
         src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
