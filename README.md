@@ -37,4 +37,4 @@
         src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>	
-<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"></a>
+<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mailto:wlodms11@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"></a>
