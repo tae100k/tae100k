@@ -24,9 +24,6 @@
 
 [![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tae100k)](https://github.com/tae100k/github-readme-stats)
 
-<br />
-<br />
-
 <a href="https://www.instagram.com/eeh_eat_/">
     <img 
         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
