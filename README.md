@@ -29,7 +29,7 @@ For me, programming isn't just a job, it's a hobby and a passion. I contributed 
 ### 🌟 Fun Facts:
 
 - 🌱 I can speak 3 languages (Korean, English, Vietnamese)
-- ⚡ Fun fact: I've competed in powerlifting competitions held by the USA Powerlifting Association.
+- ⚡ I've competed in powerlifting competitions held by the USA Powerlifting Association.
 
 
 ### 📜 Certifications:
@@ -42,7 +42,6 @@ For me, programming isn't just a job, it's a hobby and a passion. I contributed 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left"  alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img  align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img  align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
@@ -68,4 +67,4 @@ For me, programming isn't just a job, it's a hobby and a passion. I contributed 
 </a>	
 <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="mailto:getwithdaprogramme@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"></a>
 
-Let's connect and grow together!
+## Let's connect and grow together!
