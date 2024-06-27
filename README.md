@@ -11,7 +11,7 @@ For me, programming isn't just a job, it's a hobby and a passion. I contributed 
 
 ### 💼 Experience:
 
-#### LOVO AI
+#### LOVO AI ([lovo.ai](https://lovo.ai/))
 - **Frontend Developer**
 - April 2022 - Present (2 years +)
 - Tech Stack: React.js, Typescript, Next.js, Redux, React-Query, Node.js and more
@@ -20,9 +20,9 @@ For me, programming isn't just a job, it's a hobby and a passion. I contributed 
 
 ### 📝 Medium Posts:
 
-- [My Journey to Becoming a Front-End Speaker at IT Conference](https://lnkd.in/gcC2QeYW)
+- [My Journey to Becoming a Front-End Speaker at IT Conference](https://medium.com/@gremline_tae/test-415ec371bfdd)
 
-- [AI Development: What it Really Takes to Break into Product Hunt’s Top 10](https://lnkd.in/gvz3nrZT)
+- [AI Development: What it Really Takes to Break into Product Hunt’s Top 10](https://medium.com/@gremline_tae/our-auto-subtitle-feature-surfs-into-product-hunts-top-10-a71b6611c44f)
 
 
 
